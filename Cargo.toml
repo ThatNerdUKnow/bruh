@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Brandon Piña"]
 description = "Re-export of the anyhow crate, but with Bruh as the error type"
 readme = "README.md"
-license = "MIT or Apache-2.0"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
